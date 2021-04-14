@@ -8,7 +8,15 @@ Tending to a garden is one of the best ways to keep seniors active and engaged. 
 
 <img src="https://github.com/monicakr1/DH110/blob/main/img/mc.jpg">
 
-| Heuristics & Description | EG Heuristic Evaluation | Improvement |
-| --- | --- | --- |
-| Visibility of System Status |  Good: Bad: Content is not dated | Content could be dated |
-| Match between System & Real World | Good: Bad: Some menu options create submenus while others do not | Consistency |
+Heuristics | EG Heuristic Evaluation | Improvement 
+--- | --- | --- 
+Visibility of System Status |  Good: Bad: Content is not dated | Content could be dated 
+Match between System & Real World | Good: Bad: Some menu options create submenus while others do not | Consistency 
+User Control & Freedom | Good: Bad: 
+Consistency & Standards |
+Recognition > Recall |
+Error Prevention |
+Flexibility & Efficiency of Use |
+Aesthetic & Minimalist Design |
+Help Users with Error | 
+Help & Documentation | 
