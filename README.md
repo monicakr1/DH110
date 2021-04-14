@@ -2,16 +2,20 @@
 ## Assignment 1: Heuristic Evaluation
 ### DH 110, Monica Rhee
 
-https://morningchores.com/
+<b> Description <b>
 
-Tending to a garden is one of the best ways to keep seniors active and engaged. It can aid in mobile dexterity, ease anxiety, improve mood and among other health benefits. I aim to apply Nielsen's 10 Heurisitics to create a more accessible format for seniors to navigate towards the information in starting gardening within their own home.
+Tending to a garden is one of the best ways to keep seniors active and engaged. It can aid in mobile dexterity, ease anxiety, improve mood and among other health benefits. I aim to apply Nielsen's 10 Heurisitics between two prominent websites/blogs that target those seeking self-sufficiency particularly gardening. My objective is to provide suggestions for a format more accessible for seniors and the users at large by facilitating the navigation of information presented.
 
+## Morning Chores 
+https://morningchores.com
 <img src="https://github.com/monicakr1/DH110/blob/main/img/mc.jpg">
 
-Heuristics | EG Heuristic Evaluation | Improvement 
---- | --- | --- 
-Visibility of System Status |  Good: Bad: Content is not dated | Content could be dated 
-Match between System & Real World | Good: Bad: Some menu options create submenus while others do not | Consistency 
+> We aim to help you become more self-sufficient by providing practical and trustable guides created by people who also believe in this lifestyle.
+
+| Heuristics | EG Heuristic Evaluation | Improvement 
+| --- | --- | --- 
+| Visibility of System Status |  Good: Bad: Content is not dated | Content could be dated 
+| Match between System & Real World | Good: Bad: Some menu options create submenus while others do not | Consistency 
 User Control & Freedom | Good: Bad: 
 Consistency & Standards |
 Recognition > Recall |
