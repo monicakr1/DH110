@@ -4,7 +4,7 @@
 
 <b> Description <b>
 
-Tending to a garden is one of the best ways to keep seniors active and engaged. It can aid in mobile dexterity, ease anxiety, improve mood and among other health benefits. I aim to apply Nielsen's 10 Heurisitics between two prominent websites/blogs that target those seeking self-sufficiency particularly gardening. My objective is to provide suggestions for a format more accessible for seniors and the users at large by facilitating the navigation of information presented.
+Tending to a garden is one of the best ways to keep seniors active and engaged. It can aid in mobile dexterity, ease anxiety, improve mood and among other health benefits. I aim to apply Nielsen's 10 Heurisitics between two blog sites targeting individuals who seek a self-sufficient lifestyle particularly in the interest of gardening. My objective is to suggest formatting that may render these sites to be more accessible for seniors and the users at large.
 
 ## Morning Chores 
 https://morningchores.com
