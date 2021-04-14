@@ -2,7 +2,7 @@
 ## Assignment 1: Heuristic Evaluation
 ### DH 110, Monica Rhee
 
-<b> Description
+<b> Description </b>
 
 Tending to a garden is one of the best ways to keep seniors active and engaged. It can aid in mobile dexterity, ease anxiety, improve mood and among other health benefits. I aim to apply Nielsen's 10 Heurisitics between two blog sites targeting individuals who seek a self-sufficient lifestyle particularly in the interest of gardening. My objective is to suggest formatting that may render these sites to be more accessible for seniors and the users at large.
 
