@@ -6,13 +6,15 @@
 
 Tending to a garden is one of the best ways to keep seniors active and engaged. It can aid in mobile dexterity, ease anxiety, improve mood and among other health benefits. I aim to apply Nielsen's 10 Heurisitics between two blog sites targeting individuals who seek a self-sufficient lifestyle particularly in the interest of gardening. My objective is to suggest formatting that may render these sites to be more accessible for seniors and the users at large.
 
-##Severity Scale for Usability Problems
+## Severity Scale for Usability Problems
 The following 1 to 3 rating scale can be used to rate the severity of usability problems:
 
 | Rating	| Importance
+| --- | ---
 | 1 |	Cosmetic problem only: need not be fixed unless extra time is available on project
 | 2 | Minor usability problem: fixing this should be given low priority
 | 3 | Major usability problem: important to fix, so should be given high priority
+
 Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
 ## Morning Chores 
