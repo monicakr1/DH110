@@ -17,7 +17,7 @@ The following 1 to 3 rating scale can be used to rate the severity of usability 
 
 Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
-## Website 1: Morning Chores - https://morningchores.com
+## __Website 1__: Morning Chores - https://morningchores.com
 <img src="https://github.com/monicakr1/DH110/blob/main/img/mc.jpg">
 
 > We aim to help you become more self-sufficient by providing practical and trustable guides created by people who also believe in this lifestyle.
