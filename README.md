@@ -24,13 +24,13 @@ Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-u
 
 | Heuristics | EG Heuristic Evaluation | Improvement 
 | --- | --- | --- 
-| Visibility of System Status |  Good: Bad: Content is not dated | Content could be dated 
-| Match between System & Real World | Good: Bad: Some menu options create submenus while others do not | Consistency 
+| Visibility of System Status |  3- Text changes color when hovering. Content is not dated | Site can include dates of articles or indicate when last updated
+| Match between System & Real World | 1-  Some menu options create submenus while others do not | Consistency 
 User Control & Freedom | Good: Bad: 
 Consistency & Standards |
-Recognition > Recall |
+Recognition > Recall | 3- 3- When selecting another article from the options offered on the right the previous article is nowhere to be found making it difficult to retrace that information | A carousel option for these options that display in order may be helpful
 Error Prevention |
-Flexibility & Efficiency of Use |
-Aesthetic & Minimalist Design |
-Help Users with Error | 
-Help & Documentation | 
+Flexibility & Efficiency of Use | 2- Menu presented in icon in the top right do not quite mimic the options listed on the top of page. Some offer a drop down menu while other do not; lacking in consistency | Top menu options can provide more common sought items instead or a completely different set from the menu option on the left 
+Aesthetic & Minimalist Design | 3- Landing pages includes large pictures that make it hard to focus on a single object or direction | 
+Help Users with Error | 2- When using search that does not produce results user is not given options other to reselect search in the top corner of page | Provide options to either reach out for help or at least some similar queries in the results
+Help & Documentation | 3- Site does not include help or documentation but does include a vague option for "contact" where user can submit feedback. The "contact" page includes a unstructured FAQ. | Design options to encourage user to ask for help or extend a line of communication 
