@@ -25,11 +25,11 @@ Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-u
 | Heuristics | EG Heuristic Evaluation | Improvement 
 | --- | --- | --- 
 | Visibility of System Status |  3- Text changes color when hovering. Content is not dated | Site can include dates of articles or indicate when last updated
-| Match between System & Real World | 1-  Some menu options create submenus while others do not | Consistency 
-User Control & Freedom | Good: Bad: 
-Consistency & Standards |
-Recognition > Recall | 3- 3- When selecting another article from the options offered on the right the previous article is nowhere to be found making it difficult to retrace that information | A carousel option for these options that display in order may be helpful
-Error Prevention |
+| Match between System & Real World | 1- Social media icons blend in with menu  | Users will be able to quickly and identify social media icons from rest of menu if colored or not as linear with text menu options 
+User Control & Freedom | 
+Consistency & Standards | Some menu options create submenus while others do not
+Recognition > Recall | 3- When selecting another article from the options offered on the right the previous article is nowhere to be found making it difficult to retrace that information | A carousel option for these options that display in order may be helpful
+Error Prevention | 1- When trying to subscribe user is not informed of issue until after submission. User than is presented with more information to fill out rather the option to submit just an email address | Ensure the experience in subscribing is uniform across the board
 Flexibility & Efficiency of Use | 2- Menu presented in icon in the top right do not quite mimic the options listed on the top of page. Some offer a drop down menu while other do not; lacking in consistency | Top menu options can provide more common sought items instead or a completely different set from the menu option on the left 
 Aesthetic & Minimalist Design | 3- Landing pages includes large pictures that make it hard to focus on a single object or direction | 
 Help Users with Error | 2- When using search that does not produce results user is not given options other to reselect search in the top corner of page | Provide options to either reach out for help or at least some similar queries in the results
