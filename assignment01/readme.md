@@ -1,4 +1,4 @@
-# Elderly Gardening: Growing Gracefully into the Golden Years
+# Gardening into Your Golden Years
 ## Assignment 1: Heuristic Evaluation
 ### DH 110, Monica Rhee
 
