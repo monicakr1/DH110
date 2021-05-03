@@ -37,7 +37,7 @@ Help Users with Error | 2- When using search that does not produce results user 
 Help & Documentation | 3- Site does not include help or documentation but does include a vague option for "contact" where user can submit feedback. The "contact" page includes a unstructured FAQ. | Design options to encourage user to ask for help or extend a line of communication 
 
 ## __Website 2__: Betheseda - News Blog - https://www.bethesdahealth.org/blog/
-<img src="https://github.com/monicakr1/DH110/blob/main/assignment01/b.png">
+<img src="https://github.com/monicakr1/DH110/blob/main/img/b.png">
 
 > Provide exceptional senior living, care and services through our retirement communities, assisted living communities, skilled nursing home communities and home and community based programs, which place equal focus on quality and value.
 
