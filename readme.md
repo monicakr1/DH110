@@ -19,7 +19,7 @@ The following 1 to 3 rating scale can be used to rate the severity of usability 
 
 Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
-## __Website 1__: 
+# __Website 1__: 
 ## Morning Chores - https://morningchores.com
 
 <img src="https://github.com/monicakr1/DH110/blob/main/img/mc.jpg">
@@ -39,7 +39,7 @@ Aesthetic & Minimalist Design | 3- Landing pages includes large pictures that ma
 Help Users with Error | 2- When using search that does not produce results user is not given options other to reselect search in the top corner of page | Provide options to either reach out for help or at least some similar queries in the results
 Help & Documentation | 3- Site does not include help or documentation but does include a vague option for "contact" where user can submit feedback. The "contact" page includes a unstructured FAQ | Design options to encourage user to ask for help or extend a line of communication 
 
-## __Website 2__: 
+# __Website 2__: 
 ## Betheseda - News Blog - https://www.bethesdahealth.org/blog/
 
 <img src="https://github.com/monicakr1/DH110/blob/main/img/b.png">
