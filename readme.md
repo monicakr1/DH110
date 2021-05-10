@@ -19,7 +19,8 @@ The following 1 to 3 rating scale can be used to rate the severity of usability 
 
 Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
-## __Website 1__: Morning Chores - https://morningchores.com
+## __Website 1__: 
+## Morning Chores - https://morningchores.com
 
 <img src="https://github.com/monicakr1/DH110/blob/main/img/mc.jpg">
 
@@ -36,9 +37,11 @@ Error Prevention | 1- When trying to subscribe user is not informed of error of 
 Flexibility & Efficiency of Use | 2- After selecting post Menu can be mirrored at bottom of page instead of scrolling back to the top
 Aesthetic & Minimalist Design | 3- Landing pages includes large pictures that make it hard to focus on a single object or direction | A single focus point is recommended or at least partition the information to follow standards that make it easy to follow
 Help Users with Error | 2- When using search that does not produce results user is not given options other to reselect search in the top corner of page | Provide options to either reach out for help or at least some similar queries in the results
-Help & Documentation | 3- Site does not include help or documentation but does include a vague option for "contact" where user can submit feedback. The "contact" page includes a unstructured FAQ. | Design options to encourage user to ask for help or extend a line of communication 
+Help & Documentation | 3- Site does not include help or documentation but does include a vague option for "contact" where user can submit feedback. The "contact" page includes a unstructured FAQ | Design options to encourage user to ask for help or extend a line of communication 
 
-## __Website 2__: Betheseda - News Blog - https://www.bethesdahealth.org/blog/
+## __Website 2__: 
+## Betheseda - News Blog - https://www.bethesdahealth.org/blog/
+
 <img src="https://github.com/monicakr1/DH110/blob/main/img/b.png">
 
 > Provide exceptional senior living, care and services through our retirement communities, assisted living communities, skilled nursing home communities and home and community based programs, which place equal focus on quality and value.
@@ -54,4 +57,4 @@ Error Prevention | 1- In the event of cancelling the option to seek help user is
 Flexibility & Efficiency of Use | 2- At the end of each post related keywords and articles are available as well as a bottom menu | When looking for a specific topic such as "gardening" suggested keywords and articles are not relevant
 Aesthetic & Minimalist Design | 1- Good placement of images and font variation to distinguish menu and content help navigation | Less bold colors 
 Help Users with Error | 0- Required entries for form are indicated with a visble red asterisk | None
-Help & Documentation | 1- "How may we help" option remains visible and floating at all the times on bottom of page. | Popup takes up more than the visible space that may cause user to miss the exit option. Clicking outside of the popup does not close out of the popup.
+Help & Documentation | 1- "How may we help" option remains visible and floating at all the times on bottom of page. | Popup takes up more than the visible space that may cause user to miss the exit option. Clicking outside of the popup does not close out of the popup
