@@ -7,13 +7,9 @@ Morning Chores is a website aimed towards individuals who strive for and believe
 After conducting a heuristic evaluation with the website a few concerns arose regarding the usability of the site. Therefore, a usability test was performed with a participant to see what a user might encounter from day to day use. The purpose of this test is to improve the website from the user's perspective in order to draw and engage user's interest in using the site as their main guide in gardening for seniors. 
 
 ## Methodology
-The pilot usability test was conducting remotely on the participant's personal laptop at their home. The test was conducted remotely via Zoom and recorded through the moderator's laptop. 
+The pilot usability test was conducting remotely on the participant's personal laptop at their home. The test was conducted remotely via Zoom and recorded through the moderator's laptop. This is a pilot test in order to test the setting and the materials.
 
-A link to the questionnaire was submitted via chat in the Zoom application for the participant to complete. The questionnaire consisted of several sections including:  informed consent, pre-test questions, task-scenario, post-test questions and user satisfaction questions. 
-
-Report that it is a pilot test (in order to test the setting and the materials).
-
-Describe the process (ex. Background questions, pretest, posttest) and what was measured (ex. Ease of use)
+A link to the questionnaire was submitted via chat in the Zoom application for the participant to complete. The questionnaire consisted of several sections including:  informed consent, pre-test questions, task-scenario, post-test questions and demographic data questions. Several factors were measure for such as ease of use and trustworthiness.
 
 ## Survey Link
 Link to the test script and questionnaire: https://forms.gle/zdDb9By3VxyWksLw8
@@ -23,4 +19,4 @@ Link to the video of pilot UT: https://youtu.be/Dre9ipcH9WI
 
 ## Reflection
 
-Reflection: what you learned during the pilot test, what went well and what went not so well; how you want to improve your UT in the future
+Reflection: During this pilot usability testing I have come to notice that my response may very affect the user's responses. Given the user is someone I am already familiar with I would imagine that the ability to maintain a somewhat neutral expression while dispensing positive feedback was easier than if the participant was stranger. For future testing I would structure the questionnaire to be specific is fleshing out user errors and difficulties. 
