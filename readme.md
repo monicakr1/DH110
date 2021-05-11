@@ -29,7 +29,7 @@ Credit: NNgroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-u
 | Heuristics | EG Heuristic Evaluation | Improvement 
 | --- | --- | --- 
 | Visibility of System Status |  2- Text and icons change color when hovering. Content is not dated | Site can include dates or indicate when information was last updated
-| Match between System & Real World | 2- Uses clear headlines and relatable copy that’s easy to understand | "View more" button at bottom of page should maintain original site to drop down to more content instead of loading a new page with the same content reorganized
+| Match between System & Real World | 2- Uses clear headlines and relatable copy that is easy to understand | "View more" button at bottom of page should maintain original site to drop down to more content instead of loading a new page with the same content reorganized
 User Control & Freedom | 1- Website functions within browser that usually offer universal controls | Option to mainpulate site like increase text would be helpful for sites targeting seniors however most if not all browsers offer that functionality
 Consistency & Standards | 2- Some menu options create submenus while others do not and select options that do not mirror the extensive menu hidden within the menu icon | A single menu on top without submenus can simplify use as well as ridding of the hidden menu tree on the left
 Recognition > Recall | 2- Social media icons are used instead of text for immediate recognition | When selecting another article from the options offered on the right the previous article making it difficult to return to article | A carousel option for these options that display in order might be helpful
