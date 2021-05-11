@@ -18,26 +18,27 @@ One of the limitations that can be improved with the aid of digital technology i
 I want to create a website for individuals, specifically adults, who are intersted in starting a hobby with the aim towards a more healthier lifestyle. Preferably, seniors who want to engage in a hobby that promotes them to be more active and independent. No expertise in necessary to get started.
 
 ## Step03: Pick research methods (or a combination of methods) 
-Interview with direct / passive / participatory observation.
+To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry. Due to current circumstances, this session was conducted remotely over Zoom.
 
-## Step04: Plan to get into the context & write down the observation/ interview guide 
+Describe your research methods and plan (step3)
+
+## Step04: Observation / interview guide 
 Decide where to visit
 Decide what activities to observe/ what to ask to do
 Decide how to interact with the users 
 Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
 Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
 
-## Step05: Conduct the research
+Provide a link to your interview/observation guide (step4) 
+
+## Step05: Conducting the research
 Visit the place
 Meet/Observe the user(s)
 Collect the data (record, pictures, answered_survey)
 
-## Step06: Organize/Documentation
-In github (sub)repository assignment3, create one document (either README.md or .html)
-Describe your project design challenge + target user (step1+2)
-Describe your research methods and plan (step3)
-Provide a link to your interview/observation guide (step4) 
 Digitize your notes (scan/photo) and upload your data to github
 Provide a link to your representative data file(s) (step5)
 Provide a link to the transcript of your interview (or meaningful dialogues/ talk-aloud during observation, useful transcript tool here) 
-Write a reflection
+
+## Step06: Reflection
+
