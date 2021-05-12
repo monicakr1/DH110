@@ -12,10 +12,12 @@ I identified two features of the website to improve upon based on prior heuristi
 ## Persona + empathy map
 ## Perosona 1: Janet O'Hara
 <img src="https://github.com/monicakr1/DH110/blob/main/assignment04/p1.png">
+## Janet's Emapthy Map
 <img src="https://github.com/monicakr1/DH110/blob/main/assignment04/em1.png">
 
 ## Persona 2: John Anderson
 <img src="https://github.com/monicakr1/DH110/blob/main/assignment04/p2.png">
+## John's Empathy Map
 <img src="https://github.com/monicakr1/DH110/blob/main/assignment04/em2.png">
 
 ## Scenario + Journey map (per each feature)
