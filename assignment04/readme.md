@@ -9,10 +9,11 @@ I identified two features of the website to improve upon based on prior heuristi
 1. the  website's organization and of menu and content
 2. help or faq feature
 
-## Persona + empathy map 
+## Persona + empathy map
+<img src="https://github.com/monicakr1/DH110/blob/main/assignment04/p1.png">
+<img src="https://github.com/monicakr1/DH110/blob/main/assignment04/em1.png">
 
-
-
-
+<img src="https://github.com/monicakr1/DH110/blob/main/assignment04/p2.png">
+<img src="https://github.com/monicakr1/DH110/blob/main/assignment04/em2.png">
 
 ## Scenario + Journey map (per each feature)
