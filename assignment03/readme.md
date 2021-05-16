@@ -3,7 +3,7 @@
 
 ## Step01: Specify the main design challenge 
 ### - What is the main activity your project would support the users’ needs?
-This project aims to support users who are looking for a comprehensive but streamline source of information to start a vegetable garden in order to engage in physical activity and incorporate a better nutrition.
+This project aims to support users who are looking for a easy and somewhat comprehensive guide to start a vegetable garden while emphasizing physical activity and the incorporation of better nutrition.
 
 ### - What is the basic need involved for that activity? (reference)
 This activity fulfills the user’s basic need for physiological needs such as fresh air, food and health. It also may improve the need for esteem as it can develop a sense of strength, competence, independece and freedom in building and growing a vegetable garden.
@@ -17,28 +17,31 @@ One of the limitations that can be improved with the aid of digital technology i
 ## Step02: Target users 
 I want to create a website for individuals, specifically adults, who are intersted in starting a hobby with the aim towards a more healthier lifestyle. Preferably, seniors who want to engage in a hobby that promotes them to be more active and independent. No expertise in necessary to get started.
 
-## Step03: Pick research methods (or a combination of methods) 
+## Step03: Research method
 To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry. Due to current circumstances, this session was conducted remotely over Zoom.
 
-Describe your research methods and plan (step3)
+The session was broken up into the two categories as follows:
+
+### (Participatory) Observation
+I observed the user engage in two activities: look up information on how to start gardening at home and purchasing materials for pickup or delivery
+Looking up information: I asked the user how they might go about finding information on starting a vegetable garden if he was to embark on such a task.
+Purchasing materials: I asked the user how they might find products or services online to check out or purchase.
+Logging a book by hand: I asked the user what a book log entry would look like, if she were to record the books she read.
+Finding a book in the Kindle store: I asked the user how she would find a book she wants to read from the website, and what she values when looking for a book to read.
+
+### Interview
+These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
+
+>Because I could not find another in-person participant for these activity, unfortunately I had to ask the participant from my usability test to complete these activities.
 
 ## Step04: Observation / interview guide 
-Decide where to visit
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users 
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
-
-Provide a link to your interview/observation guide (step4) 
+Please find the link to the interview script here.
 
 ## Step05: Conducting the research
-Visit the place
-Meet/Observe the user(s)
-Collect the data (record, pictures, answered_survey)
+Please find the link to the recordings here.
+Please find the link to the transcription here.
 
-Digitize your notes (scan/photo) and upload your data to github
-Provide a link to your representative data file(s) (step5)
-Provide a link to the transcript of your interview (or meaningful dialogues/ talk-aloud during observation, useful transcript tool here) 
+### Insights from the Interview
 
 ## Step06: Reflection
-
+Fin.
