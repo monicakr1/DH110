@@ -35,7 +35,7 @@ These were directive. I sought to understand alternative sources of information 
 >Because I could not find another in-person participant for these activity, unfortunately I had to ask the participant from my usability test to complete these activities.
 
 ## Step04: Observation / interview guide 
-Please find the link to the interview script [here](../blob/main/assignment03/SCRIPT)
+Please find the link to the interview script [here](../SCRIPT)
 
 ## Step05: Conducting the research
 Please find the link to the recordings here.
