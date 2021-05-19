@@ -29,8 +29,12 @@ I identified two features of the website to improve upon based on prior heuristi
 
 ***How?*** Janet decides to forgo a trip to the library as she wants some quick and easy answers about gardening. So, she fires up her desktop and goes to Google and types in “gardening for seniors” to find the leading online gardening guide as the first result. She clicks on it to find a menu at the top that lists a few options to get her moving in the right direction. However, she does not find exactly what she is looking for in those few options, but she proceeds with selecting the closest option. The next page that loads offers a list of options but finds that they are categorized into groups like a visual menu. She is able to immediately identify what she is looking for and even prints some of the information for future reference.
 
+<img src="https://github.com/monicakr1/DH110/blob/main/assignment04/jm.png">
+
 ### John’s Scenario
 
 ***Why?*** John currently manages two properties but now that he has filled the last vacancy at one of the properties he can look forward to renovating his backyard that he has been putting on hold. He can never back down from an opportunity to start a new project and is meticulous about his craftsmanship. The guilt of neglecting his backyard propels John towards the ambitious goal creating a raised garden bed as the main focal point of his yard. His wife has been wanting to harvest their own produce, John has been wanting to put his vision and hands to work. 
 
 ***How?*** John has been experiencing problems with workers at big box stores who have expressed some level of incompetence. He feels that he can source the information himself by simply searching online for a how-to guide. John finds the website he is looking for and aside from the general steps on collecting the material and cost involved, he discovers that the site included visual tutorials that allowed him to skip through scrolling an endless amount of text. In addition, he finds that a help feature is available to him. Normally, John does not like asking for help especially his recent experiences but his curiosity got him to direct his attention to the help feature. It appears to be a chat feature with an automated response feature and he finds himself relieved not having to scroll through blocks of text looking for an answer. 
+
+<img src="https://github.com/monicakr1/DH110/blob/main/assignment04/jm2.png">
