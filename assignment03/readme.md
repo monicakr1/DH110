@@ -44,4 +44,8 @@ Please find the link to the transcription [here](./otter.pdf).
 ### Insights from the Interview
 
 ## Step06: Reflection
-Fin.
+Write a short paragraph reflecting on your experience of planning and conducting an interview. What did you learn about interviewing participants? What would you do differently next time?
+Summary of the process, what went smoothly or differently from your expectation
+
+Insights from data
+Lesson learned
