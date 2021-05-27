@@ -1,8 +1,8 @@
-# 04: Design FeaturesLow-fidelity prototype (wireflow)
+# 05: Low-fidelity prototype (wireflow)
 ## DH110, Monica Rhee
 
 ## Description
-A brief description of your project and purpose of this low-fidelity prototype.
+My project aims to improve upon the usability and navigation of a site so that it caters to both novice and veteran users. The purpose of this low-fidelity prototype is to provide context and a visual outline to how I intend to accomplish this goal.
 
 ## Tasks
 A list of tasks that the (paper) prototype of your system supported.
