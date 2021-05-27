@@ -23,15 +23,12 @@ To gain a better sense of how I could create a website that is useful to differe
 The session was broken up into the two categories as follows:
 
 ### (Participatory) Observation
-I observed the user engage in two activities: look up information on how to start gardening at home and purchasing materials for pickup or delivery
+I observed the user engage in two activities: look up information with the prospect of starting a hobby and navigating their site of choice to look up said information.
 Looking up information: I asked the user how they might go about finding information on starting a vegetable garden if he was to embark on such a task.
-Purchasing materials: I asked the user how they might find products or services online to check out or purchase.
-Logging a book by hand: I asked the user what a book log entry would look like, if she were to record the books she read.
-Finding a book in the Kindle store: I asked the user how she would find a book she wants to read from the website, and what she values when looking for a book to read.
+Navigating site: I asked user how they generally use the site once becoming aquainted with the interface (do you use the menus, how much time is spent on the landing page, etc.)
 
 ### Interview
-These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
-
+These were directive. I sought to understand alternative sources of information and the utility of media that the user engaged in their routine search.
 >Because I could not find a target participant for this activity I had to ask a participant outside my intended audience to complete this activity.
 
 ## Step04: Observation / interview guide 
