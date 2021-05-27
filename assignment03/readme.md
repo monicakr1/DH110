@@ -38,7 +38,7 @@ These were directive. I sought to understand alternative sources of information 
 Please find the link to the interview script [here](./script.pdf).
 
 ## Step05: Conducting the research
-Please find the link to the recordings [here](https://youtu.be/vLzIXfOf4Q8) and [here] (https://youtu.be/QIMUZQqWZiQ).
+Please find the link to the recordings [here](https://youtu.be/vLzIXfOf4Q8) and [here](https://youtu.be/QIMUZQqWZiQ).
 Please find the link to the transcription [here](./otter.txt).
 
 ### Insights from the Interview
