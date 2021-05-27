@@ -14,8 +14,8 @@ The low-fidelity prototype supports the following tasks:
 5. Scroll articles based on latest updates 
 
 ## Wireframes & Wireflow
-<img src="./wf1.pdf">
-<img src="./wf2.pdf">
+<img src="./wf1.jpg">
+<img src="./wf2.jpg">
 
 ## Reflection
 A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two about what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
