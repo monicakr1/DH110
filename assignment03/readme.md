@@ -3,7 +3,7 @@
 
 ## Step01: Specify the main design challenge 
 ### - What is the main activity your project would support the users’ needs?
-This project aims to support users who are looking for a easy and somewhat comprehensive guide to start a vegetable garden while emphasizing physical activity and the incorporation of better nutrition.
+This project aims to support users who are looking for a easy and relatively comprehensive guide to start a vegetable garden at home while emphasizing the benefits of physical activity and better nutrition.
 
 ### - What is the basic need involved for that activity? (reference)
 This activity fulfills the user’s basic need for physiological needs such as fresh air, food and health. It also may improve the need for esteem as it can develop a sense of strength, competence, independece and freedom in building and growing a vegetable garden.
@@ -32,20 +32,30 @@ Finding a book in the Kindle store: I asked the user how she would find a book s
 ### Interview
 These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
 
->Because I could not find another in-person participant for these activity, unfortunately I had to ask the participant from my usability test to complete these activities.
+>Because I could not find a target participant for this activity I had to ask a participant outside my intended audience to complete this activity.
 
 ## Step04: Observation / interview guide 
 Please find the link to the interview script [here](./script.pdf).
 
 ## Step05: Conducting the research
-Please find the link to the recordings [here](./zoom.mp4).
-Please find the link to the transcription [here](./otter.pdf).
+Please find the link to the recordings [here](https://youtu.be/vLzIXfOf4Q8) and [here] (https://youtu.be/QIMUZQqWZiQ).
+Please find the link to the transcription [here](./otter.txt).
 
 ### Insights from the Interview
+On providing media as visuals
+>Because sometimes it's just easier to show them to kind of write up to write up. So they might say, Hey, this is how you, you know, here, here's a video about this origami for for such and such for for, you know how you to make such a thing. And so the text itself gives you a better clarity of what's in the video, but you still need the video to do the show show part. 
+
+Fun as an entry point for a hobby
+>I do it for fun, and I don't, I don't really want to really, really spend that much time trying to try to perfect it.
+
+General search habit
+>Yeah, I might do Google first. And then maybe YouTube for kind of kind of show and tell.
+
+On the functionality and frequency of use of menus once familiar with site
+>I'm not all that often. I kind of like, also, what happens is that I kind of subscribe to stuff that I like already. And so I simply see what's here. And what what what YouTube recommends?
+
+On seeking information on landing page before turning to search
+>I might, I might, you know, I might do two or three. And if it doesn't, I might kind of go to Google.
 
 ## Step06: Reflection
-Write a short paragraph reflecting on your experience of planning and conducting an interview. What did you learn about interviewing participants? What would you do differently next time?
-Summary of the process, what went smoothly or differently from your expectation
-
-Insights from data
-Lesson learned
+Conducting the contextual inquiry and interviewing my participant gave me the opporutnity to step away from the product and focus on the user to gain a better understanding of how they navigate for information. While it was difficult to develop questions that inquired about the user's thought process and how they applied that to searching up to find out more about a partiular interest, shedding bias was even more difficult. However, this activity challenged me in a way to shift my perspective through the lens of a potential user. Unlike the usability testing, contextual inquiry provides a thick description of the goals that users have fashioning the product to serve them the most efficiently. I have learned that screening a variety of participants would broaden my view on the motivations and purpose when searching for information. Contextual inquiry required me to think critically and analytically whereas the usability testing seemed shallow in evaluating the true functionality of a site. During the early part of the interview the connection had dropped and I was unable to return to the same room. The particpant let me know that upon my disconnection he was kicked out of the zoom meeting thus needing to create a new meeting to the resume sesssion. Participant seemed to require more encouragement on certain explanations in order for me to fully grasp his train of thought. 
