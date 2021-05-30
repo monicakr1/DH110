@@ -16,9 +16,10 @@ A list of tasks that the interactive prototype of your system supports.
 
 ## Golden Gardens Prototype
 One image with the representative examples of screen designs (3-5 screens) 
+<img src=
 
 Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
 
-Evidence of impression test 
+## Evidence of impression test 
 
-Evidence of accessibility (color-contrast at least) check
+## Evidence of accessibility (color-contrast at least) check
