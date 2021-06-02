@@ -9,7 +9,7 @@ The low-fidelity prototype supports the following tasks:
 
 1. Ask for help / ask a question 
 2. Look for a guide on how to grow strawberries
-5. Search for articles based on the latest
+5. Search for articles based on the latest trends
 
 ## Wireframes & Wireflow
 <img src="./wf1.jpg">
