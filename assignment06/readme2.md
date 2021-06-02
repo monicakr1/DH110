@@ -1,6 +1,5 @@
-interactive prototype: High Fidelity Prototype (Part 2: Blue)
-
-Details of the grading rubric and instruction can be found [here].
+# interactive prototype: High Fidelity Prototype (Part 2: Blue)
+## DH 110, Monica Rhee
 
 Please add to the previous github documentation (on UI design) with your interactive prototype (BOLD in blue):
 
