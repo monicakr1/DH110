@@ -57,6 +57,7 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 ## High-fidelity prototype
 High-fidelity prototype adds a visual and interactive component to the low-fidelity prototype. In this process, design elements are overlaid on to or created from the sketch. This prototype demonstrates the functionality of wireflows that is incorporated into the wireframes. These functionalities are tested on screen as users are able to branch into different options without any discontinuity.  
 <img src="https://github.com/monicakr1/DH110/blob/main/img/hf.png">
+[Figma prototype here](https://www.figma.com/file/dO4JkjyMrA4OO5bMbnHOiZ/Prototype?node-id=77%3A351)
 
 ## Evaluation + revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes 
