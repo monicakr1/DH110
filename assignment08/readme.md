@@ -33,7 +33,7 @@ While there are many resources catering to general gardening ideas, a dedicated 
 In this step of the project a heuristic evaluation was conducted on two similar websites. Generally, these evaluations are conducted by multiple experts but given the circumstance and time constraints only one was conducted. From this evaluation a low severity rating was issued due to poor organization of information and lack of robust features. In the usability testing I observed how users might interact with the interface and asked them questions regarding the trustability of the site and features it might be lacking. At this point, I brainstorm some ideas on how to improve on these features to help my target user.
 <img src=”https://github.com/monicakr1/DH110/blob/main/img/b.png”>
 <img src=”https://github.com/monicakr1/DH110/blob/main/img/mc.jpg”>
-[>> See More](https://github.com/monicakr1/DH110/blob/main/readme.md) [>> And More] (https://github.com/monicakr1/DH110/blob/main/assignment03/readme.md)
+[>> See More](https://github.com/monicakr1/DH110/blob/main/readme.md) [>> And More Here](https://github.com/monicakr1/DH110/blob/main/assignment03/readme.md)
 
 ## User Research 
 
