@@ -51,13 +51,12 @@ Wireframe and graphic design element variation [assignment06 + part of 07]
 ## Low-fidelity prototype
 A low-fidelity prototype offers a low-grade schematic that offers the main features that I found to be helpful to the target users. Based on the heuristic evaluation and usability testing I was able to identify some of the frustrations and difficulties surrounding current iterations of a gardening website. With this information I then drew with a pencil and paper a rough sketch that would outline a simple wireflow from feature to feature. I then test the flow and functionality of the website against a user to see how they might navigate through the website.
 
-<img src="https://github.com/monicakr1/DH110/blob/main/img/lf.jpg" width="400">
-<img src="https://github.com/monicakr1/DH110/blob/main/img/lf2.png" width="420">
+<img src="https://github.com/monicakr1/DH110/blob/main/img/lf.jpg" width="450"><img src="https://github.com/monicakr1/DH110/blob/main/img/lf2.png" width="500">
 
 ## High-fidelity prototype
 High-fidelity prototype adds a visual and interactive component to the low-fidelity prototype. In this process, design elements are overlaid on to or created from the sketch. This prototype demonstrates the functionality of wireflows that is incorporated into the wireframes. These functionalities are tested on screen as users are able to branch into different options without any discontinuity.  
 
-<img src="https://github.com/monicakr1/DH110/blob/main/img/hf.png" width="700">
+<img src="https://github.com/monicakr1/DH110/blob/main/img/hf.png" width="700"/>
 [Figma prototype here](https://www.figma.com/proto/dO4JkjyMrA4OO5bMbnHOiZ/Prototype?node-id=77%3A351&scaling=contain&page-id=0%3A1)
 
 ## Evaluation + revision history 
