@@ -51,8 +51,8 @@ Wireframe and graphic design element variation [assignment06 + part of 07]
 ## Low-fidelity prototype
 A low-fidelity prototype offers a low-grade schematic that offers the main features that I found to be helpful to the target users. Based on the heuristic evaluation and usability testing I was able to identify some of the frustrations and difficulties surrounding current iterations of a gardening website. With this information I then drew with a pencil and paper a rough sketch that would outline a simple wireflow from feature to feature. I then test the flow and functionality of the website against a user to see how they might navigate through the website.
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
-<img src="img/lf.png">
-<img src="img/lf2.png">
+<img src="https://github.com/monicakr1/DH110/blob/main/img/lf.jpg">>
+<img src="https://github.com/monicakr1/DH110/blob/main/img/lf2.png">
 
 ## High-fidelity prototype
 High-fidelity prototype adds a visual and interactive component to the low-fidelity prototype. In this process, design elements are overlaid on to or created from the sketch. This prototype demonstrates the functionality of wireflows that is incorporated into the wireframes. These functionalities are tested on screen as users are able to branch into different options without any discontinuity.  
