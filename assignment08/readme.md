@@ -53,6 +53,8 @@ A low-fidelity prototype offers a low-grade schematic that offers the main featu
 
 <img src="https://github.com/monicakr1/DH110/blob/main/img/lf.jpg" width="450"><img src="https://github.com/monicakr1/DH110/blob/main/img/lf2.png" width="500">
 
+>> [User testing here](https://youtu.be/2fXTxbZl_Z4)
+
 ## High-fidelity prototype
 High-fidelity prototype adds a visual and interactive component to the low-fidelity prototype. In this process, design elements are overlaid on to or created from the sketch. This prototype demonstrates the functionality of wireflows that is incorporated into the wireframes. These functionalities are tested on screen as users are able to branch into different options without any discontinuity.  
 
@@ -64,7 +66,7 @@ High-fidelity prototype adds a visual and interactive component to the low-fidel
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes 
 
 ## Pitch video
-[>> Link here](https://youtube.com)
+[>> Link here](https://youtu.be/n2SyzyZzY2g)
 
 ## Conclusion
 I have learned throughout the course that user experience is not merely based on intuition and actual research methods must be conducted to design optimal products. Getting feedback from actual users is critical to the success of the outcome. While designing features and components, a constant decision needed to be made that weighed between value and simplicity. Tradeoffs were constantly being made given the limited real estate given on a screen. Lastly, user experience is more than just a pretty design but instead relies on the flows and states to make information architecture fluid and effective.
